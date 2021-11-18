@@ -1,5 +1,6 @@
 👋 I’m Jon
 💻 Field Service Engineer/Analytics Engineer/Frontend Developer
+
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/jonathan-odle/) or [dev.to](https://dev.to/odle)
 
 <!---
